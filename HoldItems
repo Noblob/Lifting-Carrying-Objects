@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class HoldItems : MonoBehaviour
+public class ObjectHold : MonoBehaviour
 {
     public GameObject Object;
     public Transform PlayerTransform;
